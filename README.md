@@ -1,11 +1,14 @@
 # Attendance-System-Project
 
+## Prerequisites
+
+1. Streamlit
+2. face_recognition
+3. pandas
 ## How to run the project
 
 1. run the requirements.txt file 
-
 2. cd Attendance-System-Project\Deployment 
-
 3. streamlit run Home_Page.py [ARGUMENTS]
 
 
